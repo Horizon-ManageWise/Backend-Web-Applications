@@ -8,17 +8,12 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<<<<<<< HEAD
-	<groupId>pe.edu.upc.center</groupId>
-	<artifactId>Backend-Web-Applications</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>Backend-Web-Applications</name>
-=======
+
 	<groupId>pe.edu.upc.horizon</groupId>
 	<artifactId>horizon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>horizon</name>
->>>>>>> master
+
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
